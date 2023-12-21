@@ -1,0 +1,19 @@
+{
+   "author": "Bharath K",
+   "name": "censorify_580",
+   "version": "0.1.1",
+   "description": "Censors words out of text",
+   "main": "censortext",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/21501a0580/NPM_Modules.git"
+   },
+   "keywords": [
+    "censor",
+    "words"
+   ],
+   "dependencies": {},
+   "engines": {
+"node": "*"
+    }
+}
